@@ -1,4 +1,4 @@
-# VPL_config
+# vpl_config
 - Admin configuration repository for Intel PSG Training VPL infrastructure.
 
 - This repository should exclusively contain definitions for FPGA-connected "JTAG servers" within the VPL network. 
