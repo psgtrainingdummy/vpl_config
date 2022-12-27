@@ -3,7 +3,7 @@
 
 - This repository should exclusively contain definitions for FPGA-connected "JTAG servers" within the VPL network. 
 
-- New machines may be added by carefully filling out rows in this "vpl_config.csv" file in this repo. 
+- New machines may be added by carefully appending rows to the "vpl_config.csv" file in this repo. Note that the minimum required columns are {Host Name,Device,Dev Kit,IP,Password}. Omitting these columns will result in a configuration failure.
 
 - Keep this repo private! The only users/machines with access should be to repo owner (the VPL admin) and the master server in the VPL infrastructure. All other access should be prohibited.
 
