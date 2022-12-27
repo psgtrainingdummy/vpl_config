@@ -1,0 +1,8 @@
+Host Name,Device,Dev Kit,IP,Password
+CV_1,Cyclone V,Cyclone V GX Starter,192.168.10.11,QPrime.1
+CV_2,Cyclone V,Cyclone V GX Starter,192.168.10.13,QPrime.1
+CV_3,Cyclone V,Cyclone V GX Starter,192.168.10.14,QPrime.1
+SX_1,Stratix 10,Stratix 10 GX,192.168.10.15,QPrime.1
+SX_2,Stratix 10,Stratix 10 GX,192.168.10.16,QPrime.1
+SX_3,Stratix 10,Stratix 10 GX,192.168.10.17,QPrime.1
+SX_4,Stratix 10,Stratix 10 GX,192.168.10.18,QPrime.1
