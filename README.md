@@ -17,3 +17,23 @@
     - Test port-forwarding of port 1309
     - Append machine statuses (results of all tests) to the vpl_status.csv and push to VPL_admin_status repository
     - Append the SSH keys and config entries to the vpl_update/.ssh folder and push to the repo. These items will be pulled by trainee VM instances at startup.
+
+# Common Reasons Config Fails
+- Missing path append for Quartus Programmer bin
+  - RDP to the problematic JTAG server
+  - Append the path to the Quartus Programmer/Quartus bin64 folder to the Windows Path environment variable
+- JTAG server has an existing remote connection that can't be reached
+  - Results in a long JTAGconfig result
+  - May be fixed by opening Quartus programmer and removing all existing
+    - RDP to the problematic JTAG server
+    - Open Quartus Programmer
+    - Click "Hardware Setup"
+    - Click "JTAG Settings"
+    - Remove all servers
+- SSHD config issue
+  - Remote connect anticipates the standard unmodified sshd_config file
+  - This file can be restored easily in Windows
+    - RDP to the problematic JTAG server
+    - Open powershell as an administrator
+    - Run the following command
+      - `cd C:\ProgramData\ssh\; Remove-Item .\sshd_config; Restart-Service sshd` 
