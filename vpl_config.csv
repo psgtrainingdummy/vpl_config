@@ -15,9 +15,9 @@ SX_10,Stratix 10,Stratix 10 GX,192.168.10.25,Student,QPrime.1,False
 SX_11,Stratix 10,Stratix 10 GX,192.168.10.26,Student,QPrime.1,False
 SX_12,Stratix 10,Stratix 10 GX,192.168.10.27,Student,QPrime.1,False
 SX_13,Stratix 10,Stratix 10 GX,192.168.10.28,Student,QPrime.1,False
-SX_14,Stratix 10,Stratix 10 GX,192.168.10.33,Student,QPrime.1,False
-SX_15,Stratix 10,Stratix 10 GX,192.168.10.34,Student,QPrime.1,False
-SX_16,Stratix 10,Stratix 10 GX,192.168.10.35,Student,QPrime.1,False
-SX_17,Stratix 10,Stratix 10 GX,192.168.10.36,Student,QPrime.1,False
-SX_18,Stratix 10,Stratix 10 GX,192.168.10.37,Student,QPrime.1,False
-SXDE_1,Stratix 10;Cyclone V,Stratix 10 GX;DE1 SoC,192.168.10.38,Student,QPrime.1,True
+SXDE_14,Stratix 10;Cyclone V,Stratix 10 GX;DE1 SoC,192.168.10.33,Student,QPrime.1,True
+SXDE_15,Stratix 10;Cyclone V,Stratix 10 GX;DE1 SoC,192.168.10.34,Student,QPrime.1,True
+SXDE_16,Stratix 10;Cyclone V,Stratix 10 GX;DE1 SoC,192.168.10.35,Student,QPrime.1,True
+SXDE_17,Stratix 10;Cyclone V,Stratix 10 GX;DE1 SoC,192.168.10.36,Student,QPrime.1,True
+SXDE_18,Stratix 10;Cyclone V,Stratix 10 GX;DE1 SoC,192.168.10.37,Student,QPrime.1,True
+SXDE_19,Stratix 10;Cyclone V,Stratix 10 GX;DE1 SoC,192.168.10.38,Student,QPrime.1,True
