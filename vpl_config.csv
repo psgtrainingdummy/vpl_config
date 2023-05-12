@@ -1,7 +1,7 @@
 Host Name,Device,Dev Kit,IP,User Name,Password, Serial
 DE_1,Cyclone V,DE1 SoC,192.168.10.11,Student,QPrime.1,True
 DE_2,Cyclone V,DE1 SoC,192.168.10.13,Student,QPrime.1,True
-DE_3,Cyclone V,DE1 SoC,192.168.10.14,Student,QPrime.1,Fals
+DE_3,Cyclone V,DE1 SoC,192.168.10.14,Student,QPrime.1,False
 SXDE_1,Stratix 10;Cyclone V,Stratix 10 GX;DE1 SoC,192.168.10.15,Student,QPrime.1,True
 SXDE_2,Stratix 10;Cyclone V,Stratix 10 GX;DE1 SoC,192.168.10.16,Student,QPrime.1,True
 SXDE_3,Stratix 10;Cyclone V,Stratix 10 GX;DE1 SoC,192.168.10.17,Student,QPrime.1,True
