@@ -1,5 +1,5 @@
 Host Name,Device,Dev Kit,IP,User Name,Password, Serial
-DE_1,Cyclone V,DE1 SoC,192.168.10.11,Student,QPrime.1,True
+A5_1,Agilex 5,Agilex 5E Premium,192.168.10.11,Student,QPrime.1,True
 DE_2,Cyclone V,DE1 SoC,192.168.10.13,Student,QPrime.1,True
 DE_3,Cyclone V,DE1 SoC,192.168.10.14,Student,QPrime.1,True
 SXDE_4,Stratix 10;Cyclone V,Stratix 10 GX;DE1 SoC,192.168.10.15,Student,QPrime.1,True
