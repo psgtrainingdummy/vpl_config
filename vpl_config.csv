@@ -1,4 +1,4 @@
-Host Name,Device,Dev Kit,IP,User Name,Password, Serial
+Host Name,Device,Dev Kit,IP,User Name,Password,Serial
 A5_1,Agilex 5,Agilex 5E Premium,192.168.10.11,Student,QPrime.1,True
 DE_2,Cyclone V,DE1 SoC,192.168.10.13,Student,QPrime.1,True
 DE_3,Cyclone V,DE1 SoC,192.168.10.14,Student,QPrime.1,True
