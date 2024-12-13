@@ -1,6 +1,6 @@
 Host Name,Device,Dev Kit,IP,User Name,Password,Serial
 A5_1,Agilex 5,Agilex 5E Premium,192.168.10.11,Student,QPrime.1,True
-A7_2,Agilex 7,Agilex 7 I-Series,192.168.10.13,Student,QPrime.1,True
+A7_2,Agilex 7,Agilex 7 ISeries,192.168.10.13,Student,QPrime.1,True
 DE_3,Cyclone V,DE1 SoC,192.168.10.14,Student,QPrime.1,True
 SX_4,Stratix 10,Stratix 10 GX,192.168.10.15,Student,QPrime.1,False
 SX_5,Stratix 10,Stratix 10 GX,192.168.10.16,Student,QPrime.1,False
