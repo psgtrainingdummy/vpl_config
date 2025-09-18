@@ -15,11 +15,11 @@ SX_13,Stratix 10,Stratix 10 GX,192.168.10.25,Student,QPrime.1,False
 SX_14,Stratix 10,Stratix 10 GX,192.168.10.26,Student,QPrime.1,False
 SX_15,Stratix 10,Stratix 10 GX,192.168.10.27,Student,QPrime.1,False
 SX_16,Stratix 10,Stratix 10 GX,192.168.10.28,Student,QPrime.1,False
-SX_17,Stratix 10,Stratix 10 GX,192.168.10.33,Student,QPrime.1,False
-A3_1,Agilex 3,Atum A3 Nano,192.168.10.33,Student,QPrime.1,False
+SX_A3_17,Stratix 10 Agilex 3,Stratix 10 GX Atum A3 Nano,192.168.10.33,Student,QPrime.1,False
 SX_18,Stratix 10,Stratix 10 GX,192.168.10.34,Student,QPrime.1,False
 SX_19,Stratix 10,Stratix 10 GX,192.168.10.35,Student,QPrime.1,False
 SX_20,Stratix 10,Stratix 10 GX,192.168.10.36,Student,QPrime.1,False
 SX_21,Stratix 10,Stratix 10 GX,192.168.10.37,Student,QPrime.1,False
 SX_22,Stratix 10,Stratix 10 GX,192.168.10.38,Student,QPrime.1,False
+
 
